@@ -1,11 +1,16 @@
 _repo: The-Anti-slavery-Harp-A-Collection-of-Songs-for-Anti-slavery-Meetings_58414
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58414-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, William W.
     gutenberg_agent_id: '49941'
     url: http://www.gutenberg.org/2009/agents/49941
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58414#The-Anti-slavery-Harp-A-Collection-of-Songs-for-Anti-slavery-Meetings
 gutenberg_issued: '2018-12-05'
 gutenberg_type: Text
 identifiers:
